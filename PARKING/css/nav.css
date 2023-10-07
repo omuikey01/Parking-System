@@ -1,0 +1,26 @@
+.nav1 {
+    background-color: blueviolet;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.nav1Ul li {
+    margin: 0 20px;
+}
+
+.nav2 {
+    display: flex;
+    justify-content: center;
+    background-color: slateblue;
+    padding: 15px;
+    margin: 5px 0;
+}
+
+.nav2 ul li {
+    margin: 0 10px;
+}
+
+.nav2 ul li a {
+    color: #000;
+}

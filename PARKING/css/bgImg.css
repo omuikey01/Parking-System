@@ -1,0 +1,16 @@
+.bgimg {
+    height: 60vh;
+    width: 100vw;
+    background-image: url("/Images/karPArking.jpg");
+    background-size: contain;
+    background-repeat: repeat;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgimg h1 {
+    font-size: 25px;
+    color: #fff;
+    background-color: red;
+    padding: 10px;
+}

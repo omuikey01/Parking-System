@@ -1,0 +1,15 @@
+.withVehi {
+    text-align: center;
+}
+
+.withVehi h1 {
+    width: fit-content;
+    margin: 5% auto 0;
+    padding: 15px 20px;
+}
+
+.withVehi input {
+    width: 30%;
+    padding: 10px;
+    margin: 20px 0;
+}

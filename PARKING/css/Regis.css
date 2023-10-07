@@ -1,0 +1,50 @@
+#vegicleRegistrationForm {
+    width: 700px;
+    margin: auto;
+    background-color: slateblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#vegicleRegistrationForm h1 {
+    text-align: center;
+    font-size: 25px;
+    margin: 10px 0;
+    color: chartreuse;
+}
+
+#vegicleRegistrationForm label {
+    display: inline-block;
+    width: 200px;
+}
+
+#vegicleRegistrationForm input[type="text"] {
+    padding: 8px;
+    margin: 5px 0;
+    outline: none;
+    border: none;
+    width: 250px;
+    border-radius: 4px;
+}
+
+#vegicleRegistrationForm button {
+    padding: 10px;
+    border-radius: 4px;
+    width: 150px;
+    margin: 5% 35%;
+    cursor: pointer;
+    transition: 500ms ease-in;
+    background-color: #fff;
+}
+
+#vegicleRegistrationForm button:active {
+    transform: scale(0.8);
+    border: 2px double orange;
+
+}
+
+#vegicleRegistrationForm p {
+    display: inline-block;
+    width: 100px;
+    margin: 0 20px;
+}
